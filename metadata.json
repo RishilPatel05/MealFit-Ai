@@ -1,0 +1,6 @@
+{
+  "name": "MealFit AI",
+  "description": "A modern AI-powered weekly meal planner and fitness scheduler web app with local data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
